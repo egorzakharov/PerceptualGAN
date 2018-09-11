@@ -26,9 +26,9 @@ $ git clone https://github.com/egorzakharov/PerceptualGAN.git
 $ cd PerceptualGAN/
 ```
 
-### 2. Downloading the required dataset
+### 2. Downloading the paper datasets
 
-Please follow the guidelines from official repositories
+Please follow the guidelines from official repositories:
 
 [Celeba-HQ](https://github.com/tkarras/progressive_growing_of_gans)
 
