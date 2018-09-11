@@ -8,14 +8,10 @@ This is a PyTorch implementation of the following paper
 <sup>1 </sup>Skolkovo Institute of Science and Technology <sup>2 </sup>Samsung Research <br/>
 European Conference on Computer Vision ([ECCV](https://eccv2018.org/)), 2018
 
-<br/>
-
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0](http://pytorch.org/)
 * [TensorFlow 1.3+](https://www.tensorflow.org/) (for tensorboard)
-
-<br/>
 
 ## Usage
 
