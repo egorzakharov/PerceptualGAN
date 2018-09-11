@@ -5,7 +5,7 @@
 This is a PyTorch implementation of the paper <b>[Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396)</b>
 <br/>
 
-[Diana Sungatullina]()<sup> 1</sup>, [Egor Zakharov]()<sup> 1</sup>, [Dmitry Ulyanov]()<sup> 1</sup>, [Victor Lempitsky]()<sup> 1,2</sup>
+Diana Sungatullina<sup> 1</sup>, Egor Zakharov<sup> 1</sup>, Dmitry Ulyanov<sup> 1</sup>, Victor Lempitsky<sup> 1,2</sup>
 <br/>
 <sup>1 </sup>Skolkovo Institute of Science and Technology <sup>2 </sup>Samsung Research <br/>
 
