@@ -65,7 +65,7 @@ models/discriminator.py
 Example usage:
 
 ```bash
-$ python test.py --input_path data/celeba_hq --img_list data/lists_hq/smile_test.txt \
+$ python test.py --input_path data/celeba_hq --img_list data/lists_hq/smile_test.txt --image_size 256 \
 --net_path runs/celebahq_256p_smile/checkpoints/latest_gen_B.pkl --output_path results/smile_test
 ```
 
