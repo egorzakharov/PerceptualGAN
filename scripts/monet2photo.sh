@@ -26,7 +26,7 @@ python train.py \
 --dis_adv_loss_type lsgan \
 --dis_use_encoder \
 --dis_kernel_size_io 3 \
---enc_type vgg19_pytorch_modified \
+--enc_type vgg19_pytorch \
 --num_epoch 50 \
 --epoch_len 1000 \
 --pretrained_gen_path runs/monet2photo_pretrain/checkpoints/

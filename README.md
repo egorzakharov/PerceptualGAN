@@ -30,6 +30,16 @@ Please follow the guidelines from official repositories
 #### [Celeba-HQ](https://github.com/tkarras/progressive_growing_of_gans)
 #### [monet2photo, apple2orange](https://github.com/junyanz/CycleGAN)
 
+### 3. Setting up tensorboard for pytorch
+
+Follow the instruction in [repository](https://github.com/lanpa/tensorboardX)
+
+To launch, run the following command in repository folder
+
+```bash
+tensorboard --logdir runs
+```
+
 ### 3. Training
 
 Set the following options within the training script:

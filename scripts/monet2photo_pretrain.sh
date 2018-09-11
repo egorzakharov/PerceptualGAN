@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 \
+CUDA_VISIBLE_DEVICES=5 \
 python train.py \
 --train_img_A_path data/monet2photo/trainB/ \
 --train_img_B_path data/monet2photo/trainB/ \
@@ -19,6 +19,6 @@ python train.py \
 --gen_norm_layer none \
 --get_upsampling_layer conv_transpose \
 --adv_loss_weight 0. \
---enc_type vgg19_pytorch_modified \
+--enc_type vgg19_pytorch \
 --num_epoch 50 \
 --epoch_len 1000

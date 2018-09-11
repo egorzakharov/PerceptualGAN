@@ -20,6 +20,6 @@ python train.py \
 --gen_norm_layer none \
 --get_upsampling_layer conv_transpose \
 --adv_loss_weight 0. \
---enc_type vgg19_pytorch_modified \
+--enc_type vgg19_pytorch \
 --num_epoch 50 \
 --epoch_len 1000
