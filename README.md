@@ -32,15 +32,17 @@ Please follow the guidelines from official repositories
 
 ### 3. Setting up tensorboard for pytorch
 
-Follow the instruction in [repository](https://github.com/lanpa/tensorboardX)
+All training data (with intermediate results) is displayed via tensorboard.
 
-To launch, run the following command in repository folder
+Follow the installation instructions in [repository](https://github.com/lanpa/tensorboardX).
+
+To launch, run the following command in repository folder:
 
 ```bash
 tensorboard --logdir runs
 ```
 
-### 3. Training
+### 4. Training
 
 Set the following options within the training script:
 
@@ -58,7 +60,7 @@ models/translation_generator.py
 models/discriminator.py
 ```
 
-### 4. Testing
+### 5. Testing
 
 Example usage:
 
