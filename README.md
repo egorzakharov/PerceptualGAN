@@ -54,7 +54,11 @@ Also you need to set the following options within the scripts:
 
 <b>train/test_img_A/B_path</b>: should point either at the txt list with image names (in the case of Celeba-HQ) or at image folders (CycleGAN).
 
-<b>pretrained_gen_path</b>: when pretraining is finished, should point at the folder with latest_gen_B.pkl file (by default can be specified to runs/<model name>/checkpoint directory)
+<b>pretrained_gen_path</b>: when pretraining is finished, should point at the folder with latest_gen_B.pkl file (by default can be specified to:
+
+```
+--pretrained_gen_path runs/<model name>/checkpoint
+```
 
 For detailed description of other options refer to:
 
