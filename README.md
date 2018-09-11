@@ -11,7 +11,7 @@ This is a PyTorch implementation of the paper <b>[Image Manipulation with Percep
 
 [European Conference on Computer Vision](https://eccv2018.org/), 2018
 
-[Project page](https://egorzakharov.github.io/perceptual_gan)
+<b>[Project page](https://egorzakharov.github.io/perceptual_gan)</b>
 
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
