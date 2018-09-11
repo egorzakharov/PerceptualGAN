@@ -2,9 +2,7 @@
 
 <p align="center"><img width="100%" src="front.jpg" /></p>
 
-This is a PyTorch implementation of the paper:
-<br/>
-<b>[Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396)</b>
+This is a PyTorch implementation of the paper <b>[Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396)</b>
 <br/>
 
 [Diana Sungatullina]()<sup> 1</sup>, [Egor Zakharov]()<sup> 1</sup>, [Dmitry Ulyanov]()<sup> 1</sup>, [Victor Lempitsky]()<sup> 1,2</sup>
