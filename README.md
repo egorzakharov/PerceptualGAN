@@ -8,14 +8,10 @@ This is a PyTorch implementation of the following paper
 <sup>1 </sup>Skolkovo Institute of Science and Technology <sup>2 </sup>Samsung Research <br/>
 European Conference on Computer Vision ([ECCV](https://eccv2018.org/)), 2018
 
-<br/>
-
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0](http://pytorch.org/)
 * [TensorFlow 1.3+](https://www.tensorflow.org/) (for tensorboard)
-
-<br/>
 
 ## Usage
 
@@ -27,7 +23,7 @@ $ cd PerceptualGAN/
 
 ### 2. Downloading the required dataset
 
-Follow the guidelines from official repositories
+Please follow the guidelines from official repositories
 
 #### [Celeba-HQ](https://github.com/tkarras/progressive_growing_of_gans)
 #### [monet2photo, apple2orange](https://github.com/junyanz/CycleGAN)
@@ -38,7 +34,7 @@ Set the following options within the training script:
 
 <b>images_path</b>: for Celeba-HQ should point at the folder with images
 
-<b>train/test_img_A/B_path</b>: should point either at the txt list with image names (as in the case of Celeba-HQ) or at image folders (CycleGAN)
+<b>train/test_img_A/B_path</b>: should point either at the txt list with image names (as in the case of Celeba-HQ) or at image folders (CycleGAN).
 
 <b>pretrained_gen_path</b>: when training with GAN loss, should point at the folder with latest_gen_B.pkl file
 
