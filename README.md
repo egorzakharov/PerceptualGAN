@@ -57,7 +57,7 @@ Also you need to set the following options within the scripts:
 <b>pretrained_gen_path</b>: when pretraining is finished, should point at the folder with latest_gen_B.pkl file (by default can be specified to:
 
 ```
---pretrained_gen_path runs/<model name>/checkpoint
+--pretrained_gen_path runs/<model name>/checkpoints
 ```
 
 For detailed description of other options refer to:
