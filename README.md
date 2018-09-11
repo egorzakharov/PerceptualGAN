@@ -71,6 +71,10 @@ $ python test.py --input_path data/celeba_hq --img_list data/lists_hq/smile_test
 
 <br/>
 
-## Acknowledgement
+### 6. Pretrained models
+
+Models are accessible via the [link](https://drive.google.com/drive/folders/1-t65qKm36HPElbr7hu98Bt6FZ4lFv4ve?usp=sharing).
+
+## Acknowledgements
 
 This work has been supported by the Ministry of Education and Science of the Russian Federation (grant 14.756.31.0001).
