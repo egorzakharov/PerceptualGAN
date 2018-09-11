@@ -3,12 +3,17 @@
 <p align="center"><img width="100%" src="front.jpg" /></p>
 
 This is a PyTorch implementation of the following paper
+<br/>
+<b>[Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396)</b>
+<br/>
 
-[Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396) <br/>
 [Diana Sungatullina]()<sup> 1</sup>, [Egor Zakharov]()<sup> 1</sup>, [Dmitry Ulyanov]()<sup> 1</sup>, [Victor Lempitsky]()<sup> 1,2</sup>
 <br/>
 <sup>1 </sup>Skolkovo Institute of Science and Technology <sup>2 </sup>Samsung Research <br/>
-European Conference on Computer Vision ([ECCV](https://eccv2018.org/)), 2018
+
+[European Conference on Computer Vision](https://eccv2018.org/)), 2018
+
+[Project page](https://egorzakharov.github.io/perceptual_gan)
 
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
