@@ -34,7 +34,9 @@ $ cd PerceptualGAN/
 Set the following options within the training script:
 
 <b>images_path</b>: for Celeba-HQ should point at the folder with images
+
 <b>train/test_img_A/B_path</b>: should point either at the txt list with image names (as in the case of Celeba-HQ) or at image folders (CycleGAN)
+
 <b>pretrained_gen_path</b>: when training with GAN loss, should point at the folder with latest_gen_B.pkl file
 
 Examples are present within scripts directory. For detailed description of options refer to:
