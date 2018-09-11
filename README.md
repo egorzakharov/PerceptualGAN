@@ -9,7 +9,7 @@ This is a PyTorch implementation of the paper <b>[Image Manipulation with Percep
 <br/>
 <sup>1 </sup>Skolkovo Institute of Science and Technology <sup>2 </sup>Samsung Research <br/>
 
-[European Conference on Computer Vision](https://eccv2018.org/)), 2018
+[European Conference on Computer Vision](https://eccv2018.org/), 2018
 
 [Project page](https://egorzakharov.github.io/perceptual_gan)
 
