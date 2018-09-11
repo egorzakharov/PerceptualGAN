@@ -31,6 +31,7 @@ $ cd PerceptualGAN/
 Please follow the guidelines from official repositories
 
 [Celeba-HQ](https://github.com/tkarras/progressive_growing_of_gans)
+
 [monet2photo, apple2orange](https://github.com/junyanz/CycleGAN)
 
 ### 3. Setting up tensorboard for pytorch
