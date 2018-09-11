@@ -1,8 +1,7 @@
 # PerceptualGAN
 
-<br/>
+This is a PyTorch implementation of the following paper
 
-## Paper
 [Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396) <br/>
 [Diana Sungatullina]()<sup> 1</sup>, [Egor Zakharov]()<sup> 1</sup>, [Dmitry Ulyanov]()<sup> 1</sup>, [Victor Lempitsky]()<sup> 1,2</sup>
 <br/>
