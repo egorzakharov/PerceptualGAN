@@ -1,5 +1,7 @@
 # PerceptualGAN
 
+<p align="center"><img width="100%" src="front.jpg" /></p>
+
 This is a PyTorch implementation of the following paper
 
 [Image Manipulation with Perceptual Discriminators](https://arxiv.org/abs/1809.01396) <br/>
