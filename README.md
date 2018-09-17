@@ -50,8 +50,8 @@ tensorboard --logdir runs
 
 Example usage:
 ```
-./scripts/celebahq_256p_pretrain.sh
-./scripts/celebahq_256p_smile.sh
+$ ./scripts/celebahq_256p_pretrain.sh
+$ ./scripts/celebahq_256p_smile.sh
 ```
 
 In order to achieve best quality results, you need to first pretrain the network as autoencoder.
