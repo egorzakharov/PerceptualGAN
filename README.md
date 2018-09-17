@@ -48,6 +48,12 @@ tensorboard --logdir runs
 
 ### 4. Training
 
+Example usage:
+```
+./scripts/celebahq_256p_pretrain.sh
+./scripts/celebahq_256p_smile.sh
+```
+
 In order to achieve best quality results, you need to first pretrain the network as autoencoder.
 
 For that, please use scripts with pretrain suffix for the appropriate dataset. After the pretraining, you can launch the main training script.
