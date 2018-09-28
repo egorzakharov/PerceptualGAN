@@ -210,12 +210,9 @@ for epoch in range(epoch_start + 1, opt.num_epoch + 1):
             for p in model.dis_params:
                 p.requires_grad = True
 
-    # In case we're doing generator pretraining
-    if hasattr(model, 'dis_params'):
-
-        opt_D.zero_grad()
-        model.backward_D()
-        opt_D.step()
+            opt_D.zero_grad()
+            model.backward_D()
+            opt_D.step()
             
     logs.update_losses('train')
 
